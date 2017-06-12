@@ -1,0 +1,15 @@
+Instalar node-oracledb:
+Prerequicitos:
+- Seguir los pasos de la pagina: 
+	https://github.com/oracle/node-oracledb/blob/master/INSTALL.md#instwin
+	https://community.oracle.com/docs/DOC-931127
+	(*) Instalar .NET Framework 4.6.1
+	
+	- Si tira error, seguir los pasos: 
+		http://acdcjunior.github.io/node-gyp-windows.html
+		
+		
+Para instalar: 
+	$ npm install
+	$ npm install oracledb --save
+	$ npm start
